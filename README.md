@@ -8,4 +8,4 @@ def say_hello(recipient):
 say_hello('Tim')
 #### ***Horizontal Rule***
 #### ~~Scratch This~~
-#### This code has been <b>HIGHLIGHTED</b>
+#### This code has been 'HIGHLIGHTED'
