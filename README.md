@@ -6,6 +6,6 @@ def say_hello(recipient):
     return 'Hello, {}!'.format(recipient)
 
 say_hello('Tim')
-#### ---Horizontal Rule---
+#### ***Horizontal Rule
 #### ~~Scratch This~~
 #### This code has been 'HIGHLIGHTED'
